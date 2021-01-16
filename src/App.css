@@ -1,0 +1,14 @@
+.game-board {
+    display: grid;
+    width: 1080px;
+    height: 520px;
+    margin: auto;
+  }
+
+.header-title {
+  text-align: center;
+}
+  
+.tile {
+    border-style: solid;
+ }
