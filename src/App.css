@@ -11,4 +11,22 @@
   
 .tile {
     border-style: solid;
+    border-color: black;
+    background-color: black;
+    text-align: center;
+    color: white;
+ }
+
+ .barricade {
+  background-color: red;
+ }
+
+ .goal {
+  background-color: white;
+  color: black;
+ }
+
+ .players {
+  background-color: white;
+  color: black;
  }
