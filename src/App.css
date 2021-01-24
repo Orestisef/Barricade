@@ -1,0 +1,33 @@
+.game-board {
+    display: grid;
+    width: 1080px;
+    height: 720px;
+    margin: auto;
+    padding-top: 5%;
+}
+
+.header-title {
+  text-align: center;
+}
+  
+.tile {
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    text-align: center;
+    color: white;
+ }
+
+ .barricade {
+  background-color: red;
+ }
+
+ .goal {
+  background-color: white;
+  color: black;
+ }
+
+ .players {
+  background-color: white;
+  color: black;
+ }
